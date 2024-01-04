@@ -50,4 +50,4 @@ jobs:
           app-name: 'kajava123'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE1D9DEC82AD46EBB80E98800925EF56 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E07E875FF9954C8F9763C0A4BBD8E469 }}
